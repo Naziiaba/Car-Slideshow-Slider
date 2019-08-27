@@ -1,4 +1,4 @@
-# Car_Slideshow_Slider
+# Car Slideshow Slider
 
 
 The Slideshow was built by using jQuery and it enables the users to play/pause/resume the slideshow animation.
